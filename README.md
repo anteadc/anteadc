@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ante</h1>
 <h3 align="center">A passionate frontend developer working on his fullstack skills</h3>
 
-- 👨‍💻 All of my projects are available at [ante-adc.com](ante-adc.com)
+- 👨‍💻 All of my projects are available at [ante-adc.com](ante-adc.com) (coming soon…)
 
 - 📫 Reach me **ante.adc@gmail.com**
 
